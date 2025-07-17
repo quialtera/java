@@ -1,0 +1,8 @@
+input command:
+
+import java.util.scanner;
+
+Scanner scanner = new Scanner(System.in);
+String adjective1;
+System.out.println("Enter an adjective (description): ");
+adjective1 = scanner.nextLine();
